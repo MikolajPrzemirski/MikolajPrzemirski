@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 Here are a few things about me:
-- 🎓 2nd year student of Internet of Things at Warsaw University of Technology
-- 🦊 vice-president of academic association __KOIoT__
-- 💻 currently learning the essentials of artificial intelligence
-- ⏰ working on PCB design project of smart alarm clock
+- 🎓 3rd year student of Internet of Things at Warsaw University of Technology
+- ☁️ currently learning about cloud computing
+- 💡 finished several PCBs for home appliances
+- 🦀 recently started learning Rust 
 - ⛰ love hiking
 - 🎸 ... and playing the guitar
